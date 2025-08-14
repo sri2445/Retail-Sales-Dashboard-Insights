@@ -32,4 +32,5 @@ Chart-Specific Analysis as per Business Requirements:
 	"Medium" outlets contribute the most to total sales based on the provided chart.
 	"Tier 3" locations generate the highest percentage of sales.
 	"Supermarket Type1" is the highest-performing outlet type across multiple metrics.
-Here is a snapshot of the dashboard---(https://github.com/sri2445/Retail-Sales-Dashboard-Insights/blob/main/Dashboard's_Snapshot.png)
+Preview of the dashboard:
+https://github.com/sri2445/Retail-Sales-Dashboard-Insights/blob/main/Dashboard's_Snapshot.png
